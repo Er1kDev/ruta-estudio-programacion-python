@@ -80,7 +80,7 @@ resultado3 = mi_funcion5(2)
 print(resultado3)
 # print(local_var) # Error, local_var no está definida en este ámbito
 
-# EXTRA
+# EJERCICIO EXTRA
 
 
 def extr(texto1, texto2):
